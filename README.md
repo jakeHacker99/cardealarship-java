@@ -21,3 +21,4 @@ I wanted to learn a compiled statically typed language and so far Java is lookin
 4. Implements interfaces.
 5. Communication between classes.
 6. Uses 4 pillars of classes; encapsulation, polymorphism, inheretence, abstraction.
+"# cardealarship-java" 
